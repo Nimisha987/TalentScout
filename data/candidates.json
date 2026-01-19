@@ -1,0 +1,51 @@
+[
+    {
+        "name": "nimisha",
+        "email": "nimishaagrawal123@gmail.com",
+        "phone": "78956123014",
+        "experience": "4",
+        "position": "frontend ev",
+        "location": "mathura",
+        "tech-stack": null,
+        "tech_stack": [
+            "reactjs",
+            "taiwlindcss"
+        ]
+    },
+    {
+        "name": "nimisha",
+        "email": "nimisha123@gmail.com",
+        "phone": "7894561230",
+        "experience": "4",
+        "position": "frontend development",
+        "location": "mathura",
+        "tech-stack": null,
+        "tech_stack": [
+            "reactjs",
+            "tailwindcss"
+        ]
+    },
+    {
+        "name": "nimi",
+        "email": "nimishaagrawal115 ",
+        "phone": "4561237890",
+        "experience": "5",
+        "position": "frontend development",
+        "location": "mathura",
+        "tech-stack": null,
+        "tech_answers": {
+            "Reactjs: What is Reactjs and where is it used?": "hello",
+            "Reactjs: Explain an advanced feature of Reactjs.": "hello",
+            "Reactjs: Describe a real-world project using Reactjs.": "hello",
+            "Reactjs: What are common issues faced in Reactjs?": "hello",
+            "Tailwindcss: What is Tailwindcss and where is it used?": "hello",
+            "Tailwindcss: Explain an advanced feature of Tailwindcss.": "hei",
+            "Tailwindcss: Describe a real-world project using Tailwindcss.": "hei",
+            "Tailwindcss: What are common issues faced in Tailwindcss?": "hei"
+        },
+        "tech_stack": [
+            "reactjs",
+            "tailwindcss"
+        ]
+    }
+]
